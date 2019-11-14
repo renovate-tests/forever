@@ -8,7 +8,7 @@
     "vulnerableCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
-    "minSeverityLevel": "HIGH"
+    "minSeverityLevel": "LOW"
   }
 }
 
