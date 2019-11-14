@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "LOCAL",
+    "configExternalURL": "default-ws-scanner.config",
     "projectToken" : ""
   },
   "checkRunSettings": {
